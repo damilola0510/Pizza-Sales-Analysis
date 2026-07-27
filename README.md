@@ -43,6 +43,7 @@ The dataset contains transactional pizza sales data including:
 
 ------------------------------------------------------------------------
 # 🔍 SQL Analysis
+<a href="https://github.com/damilola0510/Pizza-Sales-Analysis/blob/main/SQL/Pizza_sales_EDA.sql">SQl_Queries</a>
 
 SQL was used to:
 
