@@ -28,7 +28,7 @@ dashboard development.
 
 ------------------------------------------------------------------------
 # 📂 Dataset
-- <a href="https://github.com/damilola0510/Pizza-Sales-Analysis/blob/main/pizza_sales.xlsx">Dataset</a>
+<a href="https://github.com/damilola0510/Pizza-Sales-Analysis/blob/main/pizza_sales.xlsx">Dataset</a>
 The dataset contains transactional pizza sales data including:
 
 -   Order ID
