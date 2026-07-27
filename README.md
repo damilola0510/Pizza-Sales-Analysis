@@ -60,7 +60,7 @@ SQL was used to:
 # 📊 Dashboard Features
 
 ## Home Page  -- Executive Sales Overview
-- <a href="https://github.com/damilola0510/Pizza-Sales-Analysis/blob/main/Screenshot%20D1.png">Dashboard-1</a>
+- <a href="https://github.com/damilola0510/Pizza-Sales-Analysis/blob/main/Dashboards/Screenshot%20D1.png">Dashboard1s</a>
 ### KPIs
 
 -   Total Revenue
@@ -87,7 +87,7 @@ SQL was used to:
 ------------------------------------------------------------------------
 
 ## Best/Worst sellers Page -- Product Performance
-- <a href="https://github.com/damilola0510/Pizza-Sales-Analysis/blob/main/Screenshot%20D2.png">Dashboard-2</a>
+- <a href="https://github.com/damilola0510/Pizza-Sales-Analysis/blob/main/Dashboards/Screenshot%20D2.png">Dashboard-2</a>
 ### Top Performers
 
 -   Top 5 by Revenue
