@@ -27,3 +27,18 @@ dashboard development.
 -   **Excel** -- Initial Data Inspection
 
 ------------------------------------------------------------------------
+# 📂 Dataset
+- <a href="https://github.com/damilola0510/Pizza-Sales-Analysis/blob/main/pizza_sales.xlsx">Dataset</a>
+The dataset contains transactional pizza sales data including:
+
+-   Order ID
+-   Order Date & Time
+-   Pizza Name
+-   Pizza Category
+-   Pizza Ingridents
+-   Pizza Size
+-   Quantity
+-   Unit Price
+-   Total Price
+
+------------------------------------------------------------------------
